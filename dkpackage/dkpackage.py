@@ -1,5 +1,5 @@
-'''dkpackage.py'''
-'''Last Updated: May 14th Thu 2020'''
+"""dkpackage.py"""
+"""Last Updated: Jul 2nd Thu 2020"""
 
 
 class Davidsolution(object):
@@ -10,6 +10,6 @@ class Davidsolution(object):
         return strs + "[thread:STOP]"
 
 
-myDavidSolution = Davidsolution()
+"""myDavidSolution = Davidsolution()
 print(myDavidSolution.start("DKpackage: Started!")+" and "+myDavidSolution.stop("DKpackage: Stopped!"))
-print("On Jul 2nd 2020 by DK.")
+print("Afternoon on Jul 2nd 2020 by DK.")"""
