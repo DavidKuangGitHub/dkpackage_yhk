@@ -10,5 +10,6 @@ class Davidsolution(object):
         return strs + "[thread:STOP]"
 
 
-'''myDavidSolution = Davidsolution()
-print(myDavidSolution.start("DKpackage: Started!")+" and "+myDavidSolution.stop("DKpackage: Stopped!"))'''
+myDavidSolution = Davidsolution()
+print(myDavidSolution.start("DKpackage: Started!")+" and "+myDavidSolution.stop("DKpackage: Stopped!"))
+print("On Jul 2nd 2020 by DK.")
